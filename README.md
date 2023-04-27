@@ -1,5 +1,5 @@
 <h2 align="center">
- #   ──「 SALENT x MUSIC 」──
+    ──「 SALENT x MUSIC 」──
 </h2>
 
 <p align="center">
